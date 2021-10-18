@@ -57,7 +57,7 @@ docker run -d \
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
 * `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/dsuTn4qV2GA)
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/dsuTn4qV2GA)
+* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://t.me/RahulModzBackup)
 
 ### Optional Variables
 * `COLLECTION_NAME`: Name of the collections. Defaults to Telegram_files. If you going to use same database, then use different collection name for each bot
